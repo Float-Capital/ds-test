@@ -1,0 +1,27 @@
+{
+  "name": "@float-capital/ds-test",
+  "description": "ds-test packaged for NPM",
+  "version": "0.0.1",
+  "files": [
+    "src/*.sol"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Float-Capital/ds-test.git"
+  },
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "smart",
+    "contracts",
+    "security",
+    "testing"
+  ],
+  "author": "dapptools",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dapphub/ds-test/issues"
+  },
+  "homepage": "https://float.capital"
+}
